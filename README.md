@@ -1,37 +1,16 @@
 # bouncyslimeFigureBed
 
 #### 介绍
-bouncyslime的自定义图床
+bouncyslime的自定义图床。
 
-#### 软件架构
-软件架构说明
+自己写的好多markdown笔记中的图片都是不统一的有的是因为开通有道云笔记会员上传到云笔记里的，还有的个人博客的图片是上传到阿里云服务器上的。
 
+在笔记的“搬运”过程中，涉及到图片链接的替换，甚是麻烦，使用Gitee Pages服务来存储静态资源，再配合相关软件的使用，可以大大简化这一过程。
 
-#### 安装教程
+个人博客链接如下：[bouncyslime](https://www.bouncyslime.cn)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 图片示例
 
-#### 使用说明
+以下为gitee图床中的图片示例：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![](https://bouncyslime.gitee.io/bouncyslimefigurebed/picture/pie.jpg)
