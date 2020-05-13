@@ -14,3 +14,9 @@ bouncyslime的自定义图床。
 以下为gitee图床中的图片示例：
 
 ![](https://bouncyslime.gitee.io/bouncyslimefigurebed/picture/pie.jpg)
+
+以下为配置了Typora插入图片路径的图片：
+
+![](E:\gitRepository\bouncyslimeFigureBed\image\maomi.jpg)
+
+![](E:\gitRepository\bouncyslimeFigureBed\image\派大星单体.jpg)
