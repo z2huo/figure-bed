@@ -17,6 +17,6 @@ bouncyslime的自定义图床。
 
 以下为配置了Typora插入图片路径的图片：
 
-![](E:\gitRepository\bouncyslimeFigureBed\image\maomi.jpg)
+![](https://bouncyslime.gitee.io/bouncyslimefigurebed/image/maomi.jpg)
 
-![](E:\gitRepository\bouncyslimeFigureBed\image\派大星单体.jpg)
+![](https://bouncyslime.gitee.io/bouncyslimefigurebed/image/派大星单体.jpg)
