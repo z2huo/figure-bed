@@ -20,3 +20,8 @@ bouncyslime的自定义图床。
 ![](https://bouncyslime.gitee.io/bouncyslimefigurebed/image/maomi.jpg)
 
 ![](https://bouncyslime.gitee.io/bouncyslimefigurebed/image/派大星单体.jpg)
+
+### 需要进行替换的Url
+
+https://bouncyslime.gitee.io/bouncyslimefigurebed/image/
+
