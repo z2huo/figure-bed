@@ -1,27 +1,9 @@
-# bouncyslimeFigureBed
+# note-figure-bed
 
-#### 介绍
-bouncyslime的自定义图床。
+## 介绍
 
-自己写的好多markdown笔记中的图片都是不统一的有的是因为开通有道云笔记会员上传到云笔记里的，还有的个人博客的图片是上传到阿里云服务器上的。
+个人笔记需要使用的图床
 
-在笔记的“搬运”过程中，涉及到图片链接的替换，甚是麻烦，使用Gitee Pages服务来存储静态资源，再配合相关软件的使用，可以大大简化这一过程。
+## 需要进行替换的Url
 
-个人博客链接如下：[bouncyslime](https://www.bouncyslime.cn)
-
-#### 图片示例
-
-以下为gitee图床中的图片示例：
-
-![](https://bouncyslime.gitee.io/bouncyslimefigurebed/picture/pie.jpg)
-
-以下为配置了Typora插入图片路径的图片：
-
-![](https://bouncyslime.gitee.io/bouncyslimefigurebed/image/maomi.jpg)
-
-![](https://bouncyslime.gitee.io/bouncyslimefigurebed/image/派大星单体.jpg)
-
-### 需要进行替换的Url
-
-https://bouncyslime.gitee.io/bouncyslimefigurebed/image/
-
+https://z2huo.gitee.io/note-figure-bed/figure/
