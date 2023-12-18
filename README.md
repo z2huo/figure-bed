@@ -1,9 +1,9 @@
-# note-figure-bed
+# 图床
 
 ## 介绍
 
-个人笔记需要使用的图床
+图床，供markdown文件中的图片链接使用
 
 ## 需要进行替换的Url
 
-https://z2huo.gitee.io/note-figure-bed/figure/
+https://z2huo.gitee.io/figures-bed/figure/
