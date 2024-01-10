@@ -6,4 +6,4 @@
 
 ## 需要进行替换的Url
 
-https://z2huo.gitee.io/figures-bed/figure/
+https://z2huo.gitee.io/figures-bed/
